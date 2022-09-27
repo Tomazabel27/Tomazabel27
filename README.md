@@ -1,6 +1,7 @@
-<img align='left'> ![welcome](https://user-images.githubusercontent.com/114431022/192407846-77d7df00-41ce-463a-82d5-7d06f98919b3.gif) 
-### **<h2 align='right'> Hi I'm Tomás** <h2>
 
+![welcome](https://user-images.githubusercontent.com/114431022/192411270-bb314227-35be-41e7-a5d1-45d1844f47f3.gif)
+
+### **<h2 align='right'> Hi I'm Tomás** <h2>
 I'm studying systems engineer at ean university, and I'm willinmg to know everything about programming and sofware managment
   <li>🌱 I’m currently practicing my programming skils
   <li>👯 I’m looking learn everything I could learn</li>

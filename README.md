@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-# **Tomás Mazabel** 
-<p alinng="center" [title](https://twitter.com/tomazabel_27)
-
+# **Tomás Mazabel**
+image https://spng.pngfind.com/pngs/s/60-606593_icons-clipart-twitter-twitter-logo-png-transparent-png.png

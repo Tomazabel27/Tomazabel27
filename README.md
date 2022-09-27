@@ -9,13 +9,10 @@ I'm studying systems engineer at ean university, and I'm willinmg to know everyt
   </ul>
   
   <details>
-<summary><b>My Programming Languajes</b></summary>
+<summary><b>My Programming Languages</b></summary>
   <h2 align='center'> Not at the moment, but soon will be added here</h2>
    </p>
 </details>
   
 <p align='center'>
-  <a href="https://twitter.com/tomazabel_27"  target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Steve Twitter" height="20" width="20"/></a>
-
-
-  
+  <a href="https://twitter.com/tomazabel_27"  target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" alt="Tomás Twitter" height="20" width="20"/></a>
